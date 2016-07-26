@@ -1,5 +1,3 @@
-# Bash_Script
-bash script practice
 is_today_trading_day.sh:
 
 该脚本的功能是：判断当天是否为节假日。
