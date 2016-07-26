@@ -5,6 +5,7 @@ is_today_trading_day.sh:
 运行脚本：./is_today_trading_day.sh MA（或HK） 
 
 具体实现为： 
+
 		① 首先在脚本的开头， 配置环境变量，以及bash脚本和sql脚本的绝对路径；
 		
 		② 在运行脚本时，传入一个市场的参数（MA或HK），且脚本会自动获取当前日期（日期格式为：yyyyMMdd）；
